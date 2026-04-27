@@ -93,7 +93,7 @@
     "tar": "^7.5.11",
     "tough-cookie": "^5.1.1",
     "user-agents": "^1.1.387",
-    "uuid": "^13.0.0",
+    "uuid": "^14.0.0",
     "winreg": "^1.2.5",
     "workwonders-sdk": "0.1.4",
     "ws": "^8.18.1",
